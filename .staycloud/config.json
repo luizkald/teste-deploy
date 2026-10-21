@@ -1,14 +1,14 @@
 {
   "apiUrl": "https://dash.staycloud.com",
   "connectionId": "e492bf5f-40d0-499a-a0b4-c0ca1e0d3e76",
-  "projectId": null,
-  "projectName": null,
+  "projectId": "190dba8d-61a4-40bc-a5f1-a2c7d65ccacd",
+  "projectName": "teste-deploy",
   "scopes": [
-    "project:create",
     "deploy:write",
     "project:read",
     "deploy:read",
     "logs:read"
   ],
-  "connectedAt": "2026-10-21T20:52:16.414Z"
+  "connectedAt": "2026-10-21T20:52:16.414Z",
+  "selectedAt": "2026-10-21T20:58:21.104Z"
 }
